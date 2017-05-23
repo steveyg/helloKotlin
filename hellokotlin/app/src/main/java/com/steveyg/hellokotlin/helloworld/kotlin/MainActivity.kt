@@ -1,9 +1,9 @@
-package com.steveyg.hellokotlin.kotlin
+package com.steveyg.hellokotlin.helloworld.kotlin
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import com.steveyg.hellokotlin.R
-import com.steveyg.hellokotlin.java.Demo
+import com.steveyg.hellokotlin.helloworld.java.Demo
 import kotlinx.android.synthetic.main.content_main.*
 
 

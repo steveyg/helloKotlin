@@ -1,6 +1,6 @@
-package com.steveyg.hellokotlin.java;
+package com.steveyg.hellokotlin.helloworld.java;
 
-import com.steveyg.hellokotlin.kotlin.KotlinDemo;
+import com.steveyg.hellokotlin.helloworld.kotlin.KotlinDemo;
 
 public class Demo {
     public String getType(){
